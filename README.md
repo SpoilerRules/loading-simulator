@@ -19,5 +19,4 @@
 </p>
 
 ## Usage Preview
-<img src="https://i.ibb.co/PcrSkHC/java-o-Ph-Kr-Xb8-AC.gif" alt="Usage Preview">
-
+<img src="https://i.imgur.com/hpAuERy.gif" alt="Usage Preview">
