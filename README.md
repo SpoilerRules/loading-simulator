@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  A simulator inspired by the [Maple Lite](https://maple.software/) theme, designed to create an engaging loading experience. Click on the loading area to accelerate the process and enjoy the playful animation. Requires Java 11 or newer to run.
+  A simulator inspired by the <a href="https://maple.software/">Maple Lite</a> theme, designed to create an engaging loading experience. Click on the loading area to accelerate the process and enjoy the playful animation. Requires Java 11 or newer to run.
 </p>
 
 <p align="center">
